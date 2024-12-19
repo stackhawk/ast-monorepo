@@ -6,7 +6,7 @@ Monorepo of submodules for testing purposes.
 
 Source repositories should follow a simple naming pattern:
 
-ast-<LANGUAGE>-<FRAMEWORK>-<NUMERIC_INDEX>
+`ast-<LANGUAGE>-<FRAMEWORK>-<NUMERIC_INDEX>`
 
 See Adding a New Submodule for an indepth example of this naming strategy.
 
@@ -51,7 +51,7 @@ The naming strategy for the folder to clone into is important.
 
 Please follow this strategy:
 
-<LANGUAGE>-<FRAMEWORK>-<NUMERIC_INDEX>
+`<LANGUAGE>-<FRAMEWORK>-<NUMERIC_INDEX>`
 
 For example:
   * java-spring-boot-1
